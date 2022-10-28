@@ -1,0 +1,10 @@
+{
+    "liveServer.settings.wait": 2000,
+    "liveServer.settings.ignoreFiles": [
+        ".vscode/**",
+        "**/*.scss",
+        "**/*.sass",
+        "**/*.ts",
+        "**/tmp/**"
+    ]
+}
